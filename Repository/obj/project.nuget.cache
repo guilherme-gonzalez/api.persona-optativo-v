@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PTh7/g/8rS8M5Io7CDdnAmkGFXEbM4grgkdyGO8XzRPFPUrgJgLwFmrLEkfqdqACnmJk/aDsD/00j7N6grIgA==",
+  "success": true,
+  "projectFilePath": "/Users/guilhermegonzalez/Documents/code/optativo5/api.persona-optativo-v/Repository/Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/guilhermegonzalez/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/microsoft.netcore.platforms/8.0.0-preview.7.23375.6/microsoft.netcore.platforms.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/guilhermegonzalez/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
